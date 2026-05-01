@@ -74,4 +74,5 @@ The 2025 proposals can be found on the repo [SammanSarkar/GSoC_archive_2025](htt
 <a href="https://github.com/satwiksps"><img src="https://github.com/satwiksps.png" width="50px" alt="satwiksps" /></a>
 <a href="https://github.com/Metrex-Nova"><img src="https://github.com/Metrex-Nova.png" width="50px" alt="Metrex-Nova" /></a>
 <a href="https://github.com/vee1e"><img src="https://github.com/vee1e.png" width="50px" alt="vee1e" /></a>
+<a href="https://github.com/falloficaruss"><img src="https://github.com/falloficaruss.png" width="50px" alt="falloficaruss" /></a>
 <!-- CONTRIBUTORS_END -->
